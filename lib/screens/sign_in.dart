@@ -1,3 +1,4 @@
+import 'package:bindex_app/screens/home/mainScreen.dart';
 import "package:flutter/material.dart";
 import "package:bindex_app/screens/sign_up.dart";
 
@@ -76,7 +77,8 @@ class SignInPage extends StatelessWidget {
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(24),
       ),
-      onPressed: () {      
+      onPressed: () {    
+        Navigator.push(context, MaterialPageRoute(builder: (context) => MyHomePage()));  
       },
     
       padding:
