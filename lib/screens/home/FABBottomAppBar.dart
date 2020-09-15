@@ -60,7 +60,7 @@ class _FABBottomAppBarState extends State<FABBottomAppBar> {
   @override
   Widget build(BuildContext context) {
     return BottomAppBar(
-      // shape: CircularNotchedRectangle(),
+      shape: CircularNotchedRectangle(),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceAround,
         children: [
