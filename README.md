@@ -1,26 +1,24 @@
 # Bindex
 
-<center><img width="500px" src="docs/header.jpg"></center>
+<p align="center"><img width="500px" src="docs/header.jpg"></p>
 
 ## Description
 Bindex is a mobile app with a social media feel to it, where users can exchange, sell, lend or buy paper books and even form meaningfull connections with fellow readers.
 
 ## Wireframe
-<center>
 <img height="260px" src="docs/wireframe/sign_in.png" />
 <details><summary style="color: #0645AD">Show more</summary>
 <p>
 ```
-<img height="260px" src="docs/wireframe/home.png" />
-<img height="260px" src="docs/wireframe/explore.png" />
-<img height="260px" src="docs/wireframe/adding_a_book.png" />
-<img height="260px" src="docs/wireframe/messages.png" />
-<img height="260px" src="docs/wireframe/profile.png" />
-<img height="260px" src="docs/wireframe/displaying_a_book_details.png" />
+<img style="margin: 15px" height="260px" src="docs/wireframe/home.png" />
+<img style="margin: 15px" height="260px" src="docs/wireframe/explore.png" />
+<img style="margin: 15px" height="260px" src="docs/wireframe/adding_a_book.png" />
+<img style="margin: 15px" height="260px" src="docs/wireframe/messages.png" />
+<img style="margin: 15px" height="260px" src="docs/wireframe/profile.png" />
+<img style="margin: 15px" height="260px" src="docs/wireframe/displaying_a_book_details.png" />
 ```
 </p>
 </details>
-</center>
 
 ## UI Design
 
